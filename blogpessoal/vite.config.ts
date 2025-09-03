@@ -9,4 +9,3 @@ export default defineConfig({
 
   ],
 })
-import tailwindcss from "@tailwindcss/vite"
