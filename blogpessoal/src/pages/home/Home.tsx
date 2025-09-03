@@ -13,7 +13,7 @@ function Home() {
           alignItems: "center"
         }}>
           <h2>Seja bem-vindo!!!</h2>
-          <p>Expresse aqui seus pensamentos e opiniões</p>
+          <p>Aqui temos nosso blog sobre a Formula 1</p>
 
           <div style={{
             width: "80vw",
@@ -24,7 +24,7 @@ function Home() {
             {/* Conteúdo adicional pode ser inserido aqui futuramente */}
           </div>
 
-          <img src="../../../palmeiras.png" alt="Imagem da página home" width="400px" />
+          <img src="../../../images.png" alt="Imagem da página home" width="400px" />
         </div>
       </div>
     </>
